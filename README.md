@@ -22,7 +22,7 @@ The analysis simulates how data analysts answer stakeholder requests and provide
 - [🚀 Results Delivered](#-results-delivered)  
 - [📑 Deliverables](#-deliverables)  
 - [🏁 Conclusion](#-conclusion)  
-- [🧑‍💻 Author](#-author)  
+- [🧑‍💻 Author](##%E2%80%8D-author)  
 
 ---
 
