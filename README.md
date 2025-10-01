@@ -40,7 +40,7 @@ The approach followed the **business analytics workflow**:
    - Document schema (`schema.md`).  
 3. **Write SQL queries**  
    - Each request solved in a separate `.sql` file (`queries `).  
-   - Comments explain objective, inputs, expected output, and insights.  
+   - Comments explaining objective, inputs, expected output, insights, and recommendations.  
 4. **Validate outputs**  
    - Review query results for accuracy (counts, aggregates, consistency).  
 5. **Summarize insights**  
@@ -75,14 +75,40 @@ SQL_Driven_Ad-hoc_Business_Insights/
 
 👉 Below are sample visuals created from SQL query outputs (for presentation purposes):  
 
-![Customer Contribution](images/customer_contribution.png)  
-*Less than 1% of customers contributed ~60% of total revenue.*  
-
-![Sales by Channel](images/sales_channel.png)  
-*Retail channel dominated FY2021 with ~73% of total sales.*  
-
-![Discount Impact](images/discount_impact.png)  
-*High discounts offered to top customers reduced profit margins significantly.*  
+![Atliq Exclusive APAC region market](result_images/adhoc_1.png)  
+*Ad-hoc_request_1:APAC Markets for "AtliQ Exclusive"*
+* Key Insight:
+   - Mapped "AtliQ Exclusive" presence across APAC countries to reveal 
+     geographic coverage and white-space opportunities.*
+* Recommendation:
+   - Use findings to guide strategic decisions on strengthening operations 
+     and exploring underpenetrated APAC markets.*
+---
+![Sales by Channel](result_images/adhoc_7.png)  
+*Ad-hoc_request_7:Monthly Gross Sales for "AtliQ Exclusive"*
+*  Key Insight:
+   - Sales collapsed during Apr–May 2020 due to COVID disruption.
+   - Explosive rebound in Nov 2020 (> $20M) during festive season.
+   - FY2021 stabilized at ~$10–13M/month with occasional dips 
+     (e.g., Apr 2021 ~$7M), showing resilience but volatility risk.*
+* Recommendation:
+   - Prioritize Q1 (Sep–Nov) campaigns to maximize festive peaks.
+   - Strengthen resilience for Q3/Q4 to mitigate dips.
+   - Use post-2020 recovery momentum to drive retention programs
+     and explore new APAC market opportunities.*
+---
+![Discount Impact](result_images/adhoc_8.png) 
+*Ad-hoc_request_8:Quarter with Total Sold Quantity (FY2021)*
+*Key Insight:
+   - Q1 (Sep–Nov 2020) showed the highest sold quantities, 
+     driven by festive season demand and recovery momentum 
+     after COVID disruptions.  
+   - Other quarters remained steady at lower levels, with 
+     occasional dips (e.g., Q3 Apr–Jun 2021).*
+* Recommendation:
+   - Prioritize inventory build-up and marketing spend in Q1.  
+   - Explore strategies to boost Q3 demand where volumes dip.  
+   - Use seasonal trend data to improve forecasting accuracy.*  
 
 ---
 
@@ -120,6 +146,19 @@ SQL_Driven_Ad-hoc_Business_Insights/
 - Final Presentation → [`/reports/SQL_PROJECT_PPT_ENHANCED.pdf`](./reports/SQL_PROJECT_PPT_ENHANCED.pdf)  
 
 ---
+
+## 🏁 Conclusion  
+
+This project demonstrates the end-to-end **business analytics workflow**: from translating stakeholder requests, querying data with SQL, validating outputs, and extracting insights, to creating **Power BI visuals** that highlight Sales and Finance performance.  
+
+By combining **SQL-driven analysis** with clear visual storytelling, the project showcases the ability to:  
+- Identify revenue drivers and risks.  
+- Quantify performance gaps (e.g., sales growth vs. profit decline).  
+- Communicate insights in a way that supports **data-driven decision-making**.  
+
+It highlights strong skills in **SQL, Power BI, and business analytics**, making it a portfolio-ready project for **Data Analyst / BI Analyst roles**.  
+
+----
 
 ## 🧑‍💻 Author
 
