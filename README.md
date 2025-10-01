@@ -1,9 +1,25 @@
 # 📊 SQL-Driven Ad-hoc Business Insights | AtliQ Hardware (FMCG)
 
-This project contains **10 real-world ad-hoc business requests** solved using SQL for **AtliQ Hardware**, a global FMCG company.  
+This project contains **10 real-world ad-hoc business requests** solved using SQL for **AtliQ Hardware**, a global FMCG company(Imaginery Company).  
 The analysis simulates how data analysts answer stakeholder requests and provide **actionable insights**.  
 
 ⚠️ **Note:** Raw datasets are confidential and not shared. Only SQL queries, schema documentation, results, and summaries are provided.
+
+---
+
+## 📑 Table of Contents  
+
+- [📌 Project Overview](#-project-overview)  
+- [🛠️ Tech Stack](#️-tech-stack)  
+- [🔎 Methodology](#-methodology)  
+- [📂 Repository Structure](#-repository-structure)  
+- [📸 Reports Preview](#-reports-preview)  
+- [📈 Key Takeaways](#-key-takeaways)  
+- [📈 Key Learnings](#-key-learnings)  
+- [🚀 Results Delivered](#-results-delivered)  
+- [📑 Deliverables](#-deliverables)  
+- [🏁 Conclusion](#-conclusion)  
+- [🧑‍💻 Author](#-author)  
 
 ---
 
@@ -24,7 +40,7 @@ This project demonstrates how to convert business requests into **SQL queries**,
 - **SQL** (MySQL/PostgreSQL) → Querying, joins, aggregations, window functions  
 - **Schema Documentation** → Fact & dimension table mapping  
 - **Excel / CSV Exports** → Tabular summaries  
-- **PowerPoint** → Final presentation (in `/reports/`)  
+- **PowerPoint** → Final presentation (in `reports_data/SQL_DRIVEN_ADHOC_BUSINESS_INSIGHTS.pptx`)  
 - **GitHub** → Version control & portfolio hosting  
 
 ---
@@ -44,11 +60,11 @@ The approach followed the **business analytics workflow**:
 4. **Validate outputs**  
    - Review query results for accuracy (counts, aggregates, consistency).  
 5. **Summarize insights**  
-   - Convert raw SQL results into business insights (`/reports/insights_summary.md`).  
+   - Convert raw SQL results into business insights (`reports_data/insights_summary.md`).  
 6. **Visualize findings**  
    - Build **Power BI visuals** (tables, charts) from SQL outputs.  
 7. **Deliver recommendations**  
-   - Strategic takeaways compiled into a presentation (`/reports/SQL_PROJECT_PPT_ENHANCED.pdf`).
+   - Strategic takeaways compiled into a presentation (`reports_data/SQL_DRIVEN_ADHOC_BUSINESS_INSIGHTS.pptx`).
 ---
 
 ## 📂 Repository Structure  
@@ -63,9 +79,18 @@ SQL_Driven_Ad-hoc_Business_Insights/
 │   ├── ...
 │   └── 10_top_products_division.sql
 │
-├── schema.md                    # Database schema documentation
-├── star_schema_atliq.png        # ERD diagram (visual schema)
-├── SQL_PROJECT_PPT_ENHANCED.pptx # Presentation with insights
+├── schema.md
+|                  # Database schema documentation
+├── result_images/
+│   ├── star_schema_atliq.png    # ERD diagram (visual schema)
+|   ├── adhoc_1.png              # output visual
+|   ├── adhoc_7.png                   :
+|   ├── adhoc_8.png              # output visual   
+|
+├── reports_data/
+|   ├── SQL_PROJECT_PPT_ENHANCED.pptx # Presentation with insights
+|   ├── insights_summary  # contains all the adhoc_request's objective, insights, recommendation etc
+|
 └── README.md                    # This file
 ```
 
@@ -142,8 +167,8 @@ SQL_Driven_Ad-hoc_Business_Insights/
 
 - SQL Queries → [`/queries/`](queries)  
 - Schema Documentation → [`/data/schema.md`](schema.md)  
-- Insights Summary → [`/reports/insights_summary.md`](./reports/insights_summary.md)  
-- Final Presentation → [`/reports/SQL_PROJECT_PPT_ENHANCED.pdf`](./reports/SQL_PROJECT_PPT_ENHANCED.pdf)  
+- Insights Summary → [`/reports/insights_summary.md`](reports_data/insights_summary.md)  
+- Final Presentation → [`/reports/SQL_PROJECT_PPT_ENHANCED.pdf`](reports_data/SQL_DRIVEN_ADHOC_BUSINESS_INSIGHTS.pptx)  
 
 ---
 
@@ -157,10 +182,11 @@ By combining **SQL-driven analysis** with clear visual storytelling, the project
 - Communicate insights in a way that supports **data-driven decision-making**.  
 
 It highlights strong skills in **SQL, Power BI, and business analytics**, making it a portfolio-ready project for **Data Analyst / BI Analyst roles**.  
+👉 This project simulates a real FMCG business scenario, showing how data analysts bridge stakeholder needs with actionable insights.
 
 ----
 
-## 🧑‍💻 Author
+## 🧑‍💻 Author  
 
 **Mohammad Navaman Jamadar**  
 *Data Analyst & Machine Learning Practitioner*  
