@@ -103,7 +103,7 @@ It consists of **fact tables** (transactions, prices, costs, discounts) and **di
 
 ## 📊 Star Schema Diagram  
 
-![Star Schema](star_schema_atliq.png)  
+![Star Schema](result_images/star_schema_atliq.png)  
 
 ---
 
