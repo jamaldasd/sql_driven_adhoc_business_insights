@@ -1,6 +1,9 @@
 # 📊 SQL-Driven Ad-hoc Business Insights | AtliQ Hardware (FMCG)
 
-This project contains **10 real-world ad-hoc business requests** solved using SQL for **AtliQ Hardware**, a global FMCG company(Imaginery Company).  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)  
+
+This Project is a part of Codebasics Resume Project Challenge #4  
+This project contains **10 real-world ad-hoc business requests** solved using SQL for **AtliQ Hardware**, a global FMCG company(Imaginery Company).   
 The analysis simulates how data analysts answer stakeholder requests and provide **actionable insights**.  
 
 ⚠️ **Note:** Raw datasets are confidential and not shared. Only SQL queries, schema documentation, results, and summaries are provided.
@@ -19,7 +22,7 @@ The analysis simulates how data analysts answer stakeholder requests and provide
 - [🚀 Results Delivered](#-results-delivered)  
 - [📑 Deliverables](#-deliverables)  
 - [🏁 Conclusion](#-conclusion)  
-- [🧑‍💻 Author](#-author)  
+- [🧑‍💻 Author](#author)  
 
 ---
 
@@ -191,7 +194,7 @@ It highlights strong skills in **SQL, Power BI, and business analytics**, making
 **Mohammad Navaman Jamadar**  
 *Data Analyst & Machine Learning Practitioner*  
 - 📌 Skills: SQL, Power BI, Excel, Python, Data Analysis  
-- 🔗 [LinkedIn Profile](#) | [GitHub Portfolio](#) | [Portfolio](https://codebasics.io/portfolio/Mohammad-Navaman-Jamadar)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/mohammad-navaman-jamadar/) | [GitHub Portfolio](https://github.com/noumanjamadar) | [Portfolio](https://codebasics.io/portfolio/Mohammad-Navaman-Jamadar)
 
 ---
 
